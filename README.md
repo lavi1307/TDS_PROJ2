@@ -1,6 +1,8 @@
 # TDS_PROJ2 (Automated Data Analysis with Autolysis)
 
+
 Project Overview:
+
 Autolysis is a Python-based automated data analysis tool leveraging GPT-4o-Mini. It processes CSV datasets, performs statistical and exploratory analyses, generates visualizations, and crafts data-driven narratives. The script dynamically analyzes any dataset, minimizes token usage, and outputs insightful Markdown reports with supporting PNG visualizations, ensuring a comprehensive data storytelling experience.
 
 Key Features:
